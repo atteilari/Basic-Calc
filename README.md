@@ -5,7 +5,7 @@
 **Python Version:** Python 3.11.5
 
 # Basic Calc.
-#### Summary
+### Summary
 
 This calculator is a Python project that serves to demonstrate the basics of object oriented programming (OOP) & the Model View Controller (MVC) -architecture / design pattern.
 
@@ -13,7 +13,7 @@ As such, the file & folder structure in this project is split according to the M
 
 The script has not been packaged into a .exe for the purposes of this demonstration. All source code is executable as long as Python3 is installed on the computer. To run the calculator, download the entire repository & run the -/main.py file via texteditor, IDE or terminal of your choosing.
 
-#### Functionality
+### Functionality
 
 Basic Calc. gathers user input either via pressing the virtual buttons on the GUI or via keystrokes.
 
@@ -39,12 +39,12 @@ Basic Calc. can handle the following operations:
 - Square Root
 - Equals
 
-#### To-Do
+### To-Do
 
 - Invalid input catching (such as multiple decimal points in a single number)
 - Syntax Error, divide by 0 Error and other Error catching and display
 
-#### Screenshots
+### Screenshots
 
 ![Basic Calc. on startup](<Screenshot 2023-09-05 at 16.44.56.png>)
 ![Basic Calc. with an expression](<Screenshot 2023-09-05 at 16.46.29.png>)
